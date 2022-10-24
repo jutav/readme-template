@@ -1,2 +1,2 @@
-# -readme-template
-:scroll: Modelos readme para qualquer pessoa copiar e usar em seu GitHub
+# Readme-template
+Aqui você vai encontrar uma série de templetes README
